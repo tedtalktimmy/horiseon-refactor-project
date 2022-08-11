@@ -36,6 +36,11 @@ nav a {
     display: inline-block;
     margin-left: 25px;
 }
+/* added hover state for nav links */
+nav a:hover {
+    color: #d9dcd6;
+    text-decoration: underline;
+}
 
 a {
     color: #ffffff;
